@@ -1,0 +1,1 @@
+Open this file with Visual Studio Code (VSCode) and type something inside then save it.
